@@ -93,8 +93,8 @@ composer就是用来管理包依赖关系的工具，在其他流行语言中包
 使用composer的 --dev选项
 
 
-
-
+ // 根名称空间映射到的目录（以当前composer所在的目录为参照）
+ "year\\": "src/"
 
 -------------------------
 可以参考这里[this handy cheat sheet ](http://composer.json.jolicode.com/) 我将内容拷贝过来
